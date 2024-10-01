@@ -6,8 +6,6 @@ My coding journey began at 17 when I wasn’t quite sure which career path to ta
 
 Working with the hardware team sparked my interest, and when a position opened up in the development team, I decided to give it a shot. From the moment I wrote my first “Hello, World!” program, I was hooked. Coding became my passion, and it motivated me to pursue a degree in Computer Science.
 
----
-
 ## 🛠 Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
