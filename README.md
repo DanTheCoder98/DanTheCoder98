@@ -1,6 +1,6 @@
 # 👋🏻 Hi there!
 
-![Snake Animation](https://raw.githubusercontent.com/DanTheCoder98/DanTheCoder98/output/dist/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/DanTheCoder98/DanTheCoder98/output/github-contribution-grid-snake.svg)
 
 ## 👦🏼 About Me
 
