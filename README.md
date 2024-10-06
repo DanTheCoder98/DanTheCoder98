@@ -1,7 +1,5 @@
 # 👋🏻 Hi there, I’m Daniel!
 
-Welcome to my world! 🌍 This is a space where I share my projects, ideas, and passions. Whether you’re here to explore my work, learn something new, or just say hi, I’m glad you stopped by! Feel free to browse around, and don’t hesitate to connect with me.
-
 ![Snake Animation](https://raw.githubusercontent.com/DanTheCoder98/DanTheCoder98/output/github-contribution-grid-snake.svg)
 
 ## 👦🏼 About Me
