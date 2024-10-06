@@ -1,5 +1,7 @@
 # 👋🏻 Hi there!
 
+![Snake Animation](https://raw.githubusercontent.com/Platane/Platane/output/dist/github-contribution-grid-snake.svg)
+
 ## 👦🏼 About Me
 
 My coding journey began at 17 when I wasn’t quite sure which career path to take. I landed my first job by dropping my CV at local businesses, which led to a position in a recruitment agency. Over time, I rotated through various departments—marketing, finance, payroll, resources, health & safety, operations—until I found myself in the IT department. That’s where my curiosity and passion for tech began to bloom.
